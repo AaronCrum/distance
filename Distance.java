@@ -1,8 +1,5 @@
 /* 
- *  Name: Aaron Crum
- *  CSU ID: 2698195 
- *  CIS 265: Lab 2
- *  Description: Write a program that prompts the user to enter two points (x1, y1) and (x2, y2) and displays their distance.
+ *  Description: A program that prompts the user to enter two points (x1, y1) and (x2, y2) and displays their distance
 */
 
 import java.util.Scanner;
